@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1321807884 source:d:\folder paw³a\studia\zap\repozytorium\zad3.3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<math.h>
+

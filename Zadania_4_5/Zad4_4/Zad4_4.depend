@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1326803265 source:d:\folder paw³a\studia\zap\repozytorium\zad4_4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<ctime>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1322165303 source:d:\folder paw³a\studia\zap\repozytorium\sort\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
